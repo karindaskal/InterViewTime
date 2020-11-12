@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/profile_drawer"
+            android:checked="true"
+            android:icon="@drawable/baseline_account_circle_black_24dp"
+            android:title="@string/my_profile"/>
+
+        <item
+            android:id="@+id/chats_drawer"
+            android:icon="@drawable/ic_baseline_chat_24"
+            android:title="@string/chats"/>
+
+        <item
+            android:id="@+id/item_notification"
+            android:icon="@drawable/ic_baseline_notifications_24"
+            android:title="@string/notification"/>
+
+
+        <item
+            android:id="@+id/intersting_posts"
+            android:icon="@drawable/ic_baseline_description_24"
+            android:title="@string/intresting_articles"/>
+    </group>
+
+    <item android:title="@string/account">
+        <menu>
+            <item
+                android:id="@+id/log_out_menu_drawer"
+                android:title="@string/log_out"
+                android:icon="@drawable/logout"/>
+       <!--     <item
+                android:title="item2 "
+                android:icon="@drawable/ic_emoticon"/>
+-->
+        </menu>
+    </item>
+
+
+</menu>
