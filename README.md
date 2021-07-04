@@ -7,9 +7,9 @@ Firebase(Realtime, Database Storage , FCN, Authentication).Google Api.
 <a href ="https://www.youtube.com/watch?v=tlrIC_0oBko&ab_channel=%D7%A9%D7%99%D7%A8%D7%90%D7%A1%D7%A3">Video for the app</a>
 
    
-<img src="images/login.jpeg" width="180">
-<img src="images/posts.jpeg" width="180">
-<img src="images/artical.jpeg" width="180">
-<img src="images/sideBar.jpeg" width="180">
+<img src="images/login.jpeg" width="180"> <img src="images/posts.jpeg" width="180"><img src="images/artical.jpeg" width="180"><img src="images/sideBar.jpeg" width="180">
+
+
+
 
 
