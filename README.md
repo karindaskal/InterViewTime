@@ -1,4 +1,6 @@
 # InterViewTime
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,firebase,&theme=light)](https://skillicons.dev)
+
 
  Social network application which is designed to help people who are looking for a job to
 succeed in work interviews. This can be done by allowing people to share their
